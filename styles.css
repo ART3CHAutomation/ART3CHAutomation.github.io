@@ -19,7 +19,7 @@ body::before {
 	top: 0;
 	z-index: -1;
 
-	background-image: url("imgs/develop/ind-robot.jpg");
+	background-image: url("imgs/ind-robot.jpg");
 	background-size: cover;
 	background-position: center;
 	width: 100%;
